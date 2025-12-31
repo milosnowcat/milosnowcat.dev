@@ -9,4 +9,5 @@ RUN printf "server {\n\
     root /usr/share/nginx/html;\n\
     index index.txt;\n\
     default_type text/plain;\n\
+    charset utf-8;\n\
 }\n" > /etc/nginx/conf.d/default.conf
