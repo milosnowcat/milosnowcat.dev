@@ -1,9 +1,7 @@
 FROM nginx:alpine
 
-# Copiamos el archivo de texto plano
-COPY index.txt /usr/share/nginx/html/index.txt
+COPY ./public /usr/share/nginx/html/index.txt
 
-# Reemplazamos la config para que sirva text/plain como archivo principal
 RUN printf "server {\n\
     listen 80;\n\
     root /usr/share/nginx/html;\n\
