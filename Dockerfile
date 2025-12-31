@@ -1,6 +1,6 @@
 FROM nginx:alpine
 
-COPY ./public /usr/share/nginx/html/index.txt
+COPY ./public /usr/share/nginx/html/
 
 RUN printf "server {\n\
     listen 80;\n\
