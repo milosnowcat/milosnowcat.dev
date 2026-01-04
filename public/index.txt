@@ -1,9 +1,7 @@
 ÒwÓ
 
-yes, i took the idea for this `Content-Type: text/plain; charset=utf-8` website from june strawberry (https://girlboss.ceo)
-
 hi, i'm milo (ramiro), my pronouns are he/him they/them
-im 20 (birthday is 10/11), blue team, backend, devops and sysadmin since a young age
+im 20 (birthday is 10/11), blue team, backend, devops and sysadmin
 
 im actively seeking for a job at the moment and ready to work asap.
 resume can be found under /resume.md
@@ -40,6 +38,6 @@ owner of:
 ~ meow
 💚💙🤍💙💚
 
-#noai #noml #noarchive
-#queerrights #consangrights
+#noai
+#queerrights
 #freepalestine #freeukraine
